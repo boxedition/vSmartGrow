@@ -2,6 +2,13 @@
 
 SmartGrow
 
+
+## Install Quasar Globally See [Installation](https://quasar.dev/start/quasar-cli/).
+```bash
+npm i -g @quasar/cli
+npm init quasar
+```
+
 ## Install the dependencies
 ```bash
 yarn
